@@ -1,1 +1,190 @@
-<p style="padding: 15px;"> This is the conatct us page that describes your app</p>
+<main>
+  <section class="section contact-us bg-dark">
+    <div class="container">
+      <div class="sec-head">
+        <h4>Reach out to us!</h4>
+        <p>
+          Got a question about our programs? Interested in partnering with us?
+          Got suggestions or just want to say hi? Contact us below:
+        </p>
+      </div>
+
+      <div class="contact-cards">
+        <div class="card-left">
+          <div class="cont-details">
+            <div class="icon">
+              <img src="assets/images/mobile_icon.svg" />
+            </div>
+            <a href="tel:+91 8041-275-059" class="text">+91 8041-275-059</a>
+          </div>
+          <div class="cont-details">
+            <div class="icon">
+              <img src="assets/images/Email_icon.svg" />
+            </div>
+            <a href="mailto:contact@stackroute.in" class="text"
+              >contact@stackroute.in</a
+            >
+          </div>
+          <div class="cont-details">
+            <div class="icon">
+              <img src="assets/images/location_icon.svg" />
+            </div>
+            <p class="text">
+              1660, 3rd floor, 27th Main Rd, Parangi Palaya, Sector 2, HSR
+              Layout, Bengaluru, Karnataka 560102
+              <a href="#">Get Directions →</a>
+            </p>
+          </div>
+        </div>
+        <div class="card-right">
+          <ul class="tabs" id="contact-us-tabs">
+            <li class="tab">
+              <a href="#ContactUs" class="active">Contact Us</a>
+            </li>
+            <!--<li class="tab"><a href="#JoinUs">Join Us</a></li>-->
+          </ul>
+
+          <div id="ContactUs">
+            <form class="contact-us-form" id="contact-us">
+              <div class="row">
+                <div class="input-field col s6">
+                  <input
+                    id="full_name"
+                    type="text"
+                    class="validate browser-default"
+                    required
+                  />
+                  <label for="full_name">Full Name</label>
+                  <span class="helper-text">*Required</span>
+                </div>
+                <div class="input-field col s6">
+                  <input
+                    id="email"
+                    type="email"
+                    class="validate browser-default"
+                    required
+                  />
+                  <label for="email">Email</label>
+                  <span
+                    class="helper-text"
+                    data-error="wrong"
+                    data-success="right"
+                    >*Required</span
+                  >
+                </div>
+                <div class="input-field col s6">
+                  <input
+                    id="number"
+                    type="text"
+                    class="validate browser-default"
+                  />
+                  <label for="number">Phone Number</label>
+                  <!--<span class="helper-text"  data-error="wrong" data-success="right">*Required</span>-->
+                </div>
+                <div class="input-field col s6">
+                  <input
+                    id="company"
+                    type="text"
+                    class="validate browser-default"
+                  />
+                  <label for="company">Company</label>
+                </div>
+                <div class="input-field col s12">
+                  <textarea
+                    id="requirement"
+                    class="validate browser-default"
+                    rows="7"
+                  ></textarea>
+                  <label for="requirement"
+                    >Tell us about your requirement</label
+                  >
+                </div>
+                <div class="input-field col s12">
+                  <label class="check">
+                    <input type="checkbox" checked />
+                    <span
+                      >Please tick this box to indicate that understand that
+                      your personal data will be used in accordance with the
+                      <a
+                        href="https://privacy.niit.com/prospective_customer.html"
+                        >Privacy Policy</a
+                      >
+                      here *</span
+                    >
+                  </label>
+                </div>
+
+                <div class="right-align col s12">
+                  <button
+                    class="btn-custom-light waves-effect"
+                    id="contact-form"
+                    type="submit"
+                  >
+                    Send <i class="material-icons">arrow_forward</i>
+                    <div class="spinner">
+                      <div></div>
+                      <div></div>
+                      <div></div>
+                      <div></div>
+                      <div></div>
+                      <div></div>
+                      <div></div>
+                      <div></div>
+                      <div></div>
+                      <div></div>
+                      <div></div>
+                      <div></div>
+                    </div>
+                  </button>
+                </div>
+              </div>
+            </form>
+          </div>
+
+          <!-- <div id="JoinUs">
+                            <form class="contact-us-form">
+                                <div class="row">
+                                    <div class="input-field col s6">
+                                        <input id="j_full_name" type="text" class="validate browser-default" required>
+                                        <label for="j_full_name1">Full Name</label>
+                                        <span class="helper-text">*Required</span>
+                                    </div>
+                                    <div class="input-field col s6">
+                                        <input id="j_email" type="email" class="validate browser-default" required>
+                                        <label for="j_email">Email</label>
+                                        <span class="helper-text"  data-error="wrong" data-success="right">*Required</span>
+                                    </div>
+                                    <div class="input-field col s6">
+                                        <input id="j_number" type="text" class="validate browser-default" required>
+                                        <label for="j_number">Phone Number</label>
+										<span class="helper-text"  data-error="wrong" data-success="right">*Required</span>
+                                    </div>
+                                    <div class="input-field col s6" required>
+                                        <input id="j_Designation" type="text" class="validate browser-default">
+                                        <label for="j_Designation">Designation</label>
+										<span class="helper-text"  data-error="wrong" data-success="right">*Required</span>
+                                    </div>
+                                    <div class="input-field  col s12">
+                                        <div class="file-field input-field">
+                                            <div class="btn">
+                                                <span>Resume</span>
+                                                <input id="j_file" type="file" id="Resume">
+                                            </div>
+                                            <div class="file-path-wrapper">
+                                                <input class="file-path validate browser-default" type="text">
+                                            </div>
+                                        </div>
+                                    </div>
+									
+
+                                    <div class="right-align col s12">
+                                        <button class="btn-custom-light waves-effect" id="join-us" type="submit">Send <i class="material-icons">arrow_forward</i></button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div> -->
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
