@@ -10,6 +10,7 @@ import { HeaderComponent } from './header/header.component';
 import { FooterComponent } from './footer/footer.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatTabsModule } from '@angular/material/tabs';
+import { ThankyouComponent } from './thankyou/thankyou.component';
 
 @NgModule({
   declarations: [
@@ -18,6 +19,7 @@ import { MatTabsModule } from '@angular/material/tabs';
     ContactUsComponent,
     HeaderComponent,
     FooterComponent,
+    ThankyouComponent,
   ],
   imports: [
     BrowserModule,
