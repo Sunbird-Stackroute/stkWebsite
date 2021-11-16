@@ -1408,3 +1408,17 @@ label.check {
   top: -5px;
   left: 10px;
 }
+
+.mat-tab-label {
+  font-size: x-large;
+}
+
+.mat-tab-group {
+    display: flex;
+    flex-direction: column;
+    max-width: 80%;
+    margin-left: 10%;
+}
+.mat-tab-group {
+  align-items: center; font-size: large;
+}
