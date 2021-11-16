@@ -1,5 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600");
+
 @media (max-width: 1200px) {
   .sticky-CTA {
     right: 30px;
