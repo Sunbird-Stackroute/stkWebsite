@@ -24,7 +24,10 @@ export class ContactUsComponent implements OnInit {
           method: 'GET',
           headers: {
               'Token': 'a4P4M9fF3pIgd4Vso3Iqaa3qDPRTcptquTV6eKODNtcS1bUe4+6QDQ==',
-              'Content-Type': 'application/json'
+              'Content-Type': 'application/json',
+              'Access-Control-Allow-Origin': '*',
+              'Access-Control-Allow-Methods': 'DELETE, POST, GET, OPTIONS',
+              'Access-Control-Allow-Headers': 'Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With'
           },
           data: {
               Name: $('#full_name').val(),
