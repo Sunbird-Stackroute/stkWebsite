@@ -1,3 +1,14 @@
-.workTab {
+.workTabs {
   color: white !important;
+}
+
+/* .workTab ::ng-deep .mat-tab-list .mat-tab-label {
+  color: white;
+  opacity: 0.7;
+} */
+.workTabs ::ng-deep .mat-tab-list .mat-tab-label.mat-tab-label-active {
+  color: white;
+}
+::ng-deep .mat-tab-group.mat-primary .mat-ink-bar {
+  background-color: #E84900 !important;
 }
