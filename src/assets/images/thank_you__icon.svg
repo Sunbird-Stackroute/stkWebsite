@@ -1,0 +1,54 @@
+<svg width="171px" height="189px" viewBox="0 0 171 189" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>thank_you__icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-147.1%" y="-237.9%" width="411.5%" height="635.1%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="22" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="13" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.466666667   0 0 0 0 0.815686275   0 0 0 0 0.709803922  0 0 0 0.168651661 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#5CA794" offset="0%"></stop>
+            <stop stop-color="#78D1B6" offset="100%"></stop>
+        </linearGradient>
+        <path d="M49.1796691,-0.773434582 L49.1796691,-0.773434582 C53.9177902,-0.756387142 57.7534256,3.08254392 57.7664038,7.82067785 L57.9434899,72.4722113 C57.9564685,77.210486 54.1258591,81.0621377 49.3875845,81.0751162 C49.3830222,81.0751287 49.37846,81.0751376 49.3738977,81.0751428 L49.3738977,81.0751428 C44.6268435,81.0805724 40.773048,77.2389014 40.7635191,72.4918536 L40.6335794,7.75907252 C40.6241391,3.05611836 44.4289838,-0.764032191 49.131938,-0.773472543 C49.1478484,-0.77350448 49.1637588,-0.773491826 49.1796691,-0.773434582 Z" id="path-3"></path>
+        <filter x="-398.6%" y="-66.0%" width="897.2%" height="268.6%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="2.5" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="15" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="23" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.470588235   0 0 0 0 0.819607843   0 0 0 0 0.71372549  0 0 0 0.369126967 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#5CA794" offset="0%"></stop>
+            <stop stop-color="#78D1B6" offset="100%"></stop>
+        </linearGradient>
+        <path d="M8.73301927,3.76642166e-05 L8.73301927,3.76642166e-05 C13.4820643,-0.0151128042 17.3442079,3.82246701 17.3593584,8.57151209 C17.3594083,8.5871451 17.3594155,8.60277821 17.3593801,8.61841126 L17.2953319,36.9099328 L17.2936277,37.6627202 C17.2842359,41.8113044 19.4310475,45.6667963 22.9626004,47.8437148 L24.4324324,48.7497482 L10.2289423,48.7950603 C4.59753261,48.8130257 0.0178092747,44.2624301 -0.000156125144,38.6310204 C-0.000215264031,38.6124828 -0.000223850156,38.5939451 -0.000181883423,38.5754075 L0.0675118515,8.67357601 C0.0783391035,3.89093746 3.9503928,0.0152952644 8.73301927,3.76642166e-05 Z" id="path-6"></path>
+        <filter x="-282.4%" y="-110.7%" width="640.3%" height="382.8%" filterUnits="objectBoundingBox" id="filter-7">
+            <feMorphology radius="2.5" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="15" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="23" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.470588235   0 0 0 0 0.819607843   0 0 0 0 0.71372549  0 0 0 0.369126967 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sr__microsite__thank_you__page" transform="translate(-651.000000, -158.000000)">
+            <g id="Group" transform="translate(645.000000, 157.000000)">
+                <g id="thank_you__icon" filter="url(#filter-1)" transform="translate(80.682843, 71.082843) rotate(-45.000000) translate(-80.682843, -71.082843) translate(35.482843, 46.282843)">
+                    <g id="Rectangle-Copy-5" transform="translate(49.288542, 40.150829) rotate(-450.000000) translate(-49.288542, -40.150829) ">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        <use fill="url(#linearGradient-2)" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    </g>
+                    <g id="Rectangle" transform="translate(12.216216, 24.400000) rotate(-360.000000) translate(-12.216216, -24.400000) ">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                        <use fill="url(#linearGradient-5)" fill-rule="evenodd" xlink:href="#path-6"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
