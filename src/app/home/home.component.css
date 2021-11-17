@@ -9,6 +9,20 @@
 .workTabs ::ng-deep .mat-tab-list .mat-tab-label.mat-tab-label-active {
   color: white;
 }
-::ng-deep .mat-tab-group.mat-primary .mat-ink-bar {
-  background-color: #E84900 !important;
+.style-text-VNDMission {
+  padding-top: 30px;
+  max-width: 370px;
+  text-align: center;
+  margin: 0px auto;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 28px;
 }
+.style-text-worktab{
+    padding-top: 30px;
+    font-size: 15px;
+}
+::ng-deep .mat-tab-group.mat-primary .mat-ink-bar {
+  background-color: #e84900 !important;
+}
+
