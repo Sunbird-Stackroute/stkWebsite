@@ -1,0 +1,13 @@
+<svg width="21px" height="36px" viewBox="0 0 21 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>mobile_icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.200000003">
+        <g id="sr__microsite__contact_page" transform="translate(-262.000000, -289.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="mobile_icon" transform="translate(262.000000, 289.000000)">
+                <path d="M17.9411321,3.55271368e-16 L2.77358491,3.55271368e-16 C1.24177626,0 3.26849658e-13,1.2536027 3.26849658e-13,2.8 L3.26849658e-13,33.2 C3.26849658e-13,34.7463973 1.24177626,36 2.77358491,36 L17.9411321,36 C19.4729407,36 20.714717,34.7463973 20.714717,33.2 L20.714717,2.8 C20.714717,1.2536027 19.4729407,0 17.9411321,3.55271368e-16 Z M19.4190566,33.2 C19.4190566,34.0240088 18.7573673,34.692 17.9411321,34.692 L2.77358491,34.692 C1.95734973,34.692 1.29566038,34.0240088 1.29566038,33.2 L1.29566038,2.8 C1.29566038,1.97599115 1.95734973,1.308 2.77358491,1.308 L17.9411321,1.308 C18.7573673,1.308 19.4190566,1.97599115 19.4190566,2.8 L19.4190566,33.2 Z" id="Shape"></path>
+                <ellipse id="Oval" cx="10.3573585" cy="31.564" rx="1.55716981" ry="1.572"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

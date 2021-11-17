@@ -25,7 +25,8 @@ export class ContactUsComponent implements OnInit {
           headers: {
               'Token': 'a4P4M9fF3pIgd4Vso3Iqaa3qDPRTcptquTV6eKODNtcS1bUe4+6QDQ==',
               'Content-Type': 'application/json'
-          },
+        },
+        crossDomain: true,
           data: {
               Name: $('#full_name').val(),
               EmailID: $('#email').val(),
