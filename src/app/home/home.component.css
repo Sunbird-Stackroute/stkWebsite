@@ -6,9 +6,10 @@
   color: white;
   opacity: 0.7;
 } */
-.workTabs ::ng-deep .mat-tab-list .mat-tab-label.mat-tab-label-active {
-  color: white;
+.workTabs ::ng-deep .mat-tab-list .mat-tab-labels .mat-tab-label-active {
+  color: white !important;
 }
+
 .style-text-VNDMission {
   padding-top: 30px;
   max-width: 370px;
@@ -18,11 +19,13 @@
   letter-spacing: 0;
   line-height: 28px;
 }
-.style-text-worktab{
-    padding-top: 30px;
-    font-size: 15px;
+.style-text-worktab {
+  padding-top: 30px;
+  font-size: 15px; 
 }
 ::ng-deep .mat-tab-group.mat-primary .mat-ink-bar {
   background-color: #e84900 !important;
 }
-
+.workTabs ::ng-deep .mat-tab-label-content {
+  color: white !important;
+}

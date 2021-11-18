@@ -1,0 +1,8 @@
+{
+  "/StackRoute-API/*": {
+    "target": "http://www.labs.stackroute.io",
+    "secure": false,
+    "logLevel": "debug",
+    "changeOrigin": true
+  }
+}
